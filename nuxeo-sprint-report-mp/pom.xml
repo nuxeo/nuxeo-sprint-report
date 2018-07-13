@@ -12,6 +12,10 @@
   <name>Nuxeo Sprint Report Marketplace package</name>
 
   <dependencies>
+    <dependency>
+      <groupId>nuxeo-studio</groupId>
+      <artifactId>nuxeo-sprint-report</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
