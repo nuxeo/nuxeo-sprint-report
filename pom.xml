@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.nuxeo.ecm.distribution</groupId>
     <artifactId>nuxeo-distribution</artifactId>
-    <version>done</version>
+    <version>10.3-SNAPSHOT</version>
   </parent>
 
   <groupId>com.nuxeo.sprint.report</groupId>
@@ -16,7 +16,7 @@
   <properties>
     <nuxeo.sprint.version>${project.version}</nuxeo.sprint.version>
     <nuxeo.sprint.studio.version>0.5.0</nuxeo.sprint.studio.version>
-    <nuxeo.target.platform.version>10.2</nuxeo.target.platform.version>
+    <nuxeo.target.platform.version>10.3</nuxeo.target.platform.version>
   </properties>
 
   <modules>
