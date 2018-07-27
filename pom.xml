@@ -4,19 +4,19 @@
   <parent>
     <groupId>org.nuxeo.ecm.distribution</groupId>
     <artifactId>nuxeo-distribution</artifactId>
-    <version>10.3-SNAPSHOT</version>
+    <version>10.2-SNAPSHOT</version>
   </parent>
 
   <groupId>com.nuxeo.sprint.report</groupId>
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Nuxeo Sprint Report</name>
-  <version>1.10.3-SNAPSHOT</version>
+  <version>1.10.2-SNAPSHOT</version>
 
   <properties>
     <nuxeo.sprint.version>${project.version}</nuxeo.sprint.version>
     <nuxeo.sprint.studio.version>0.5.0</nuxeo.sprint.studio.version>
-    <nuxeo.target.platform.version>10.3</nuxeo.target.platform.version>
+    <nuxeo.target.platform.version>10.2</nuxeo.target.platform.version>
   </properties>
 
   <modules>
