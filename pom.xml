@@ -15,7 +15,7 @@
 
   <properties>
     <nuxeo.sprint.version>${project.version}</nuxeo.sprint.version>
-    <nuxeo.sprint.studio.version>0.5.2</nuxeo.sprint.studio.version>
+    <nuxeo.sprint.studio.version>0.5.3</nuxeo.sprint.studio.version>
     <nuxeo.target.platform.version>10.3</nuxeo.target.platform.version>
   </properties>
 
