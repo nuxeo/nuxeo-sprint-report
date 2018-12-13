@@ -11,7 +11,7 @@
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Nuxeo Sprint Report</name>
-  <version>1.10.3-SNAPSHOT</version>
+  <version>1.10.4-SNAPSHOT</version>
 
   <properties>
     <nuxeo.sprint.version>${project.version}</nuxeo.sprint.version>
